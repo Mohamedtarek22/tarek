@@ -1,5 +1,8 @@
 body {
   background-image: url('george_kids_panel01_011119.jpg');
+  background-attachment: fixed;
+   background-position: center;
+  background-size: cover;
 }
 nav {
   margin-bottom: 15px;
